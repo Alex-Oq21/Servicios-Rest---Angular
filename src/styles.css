@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+#fuente {
+    color: aliceblue;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+th {
+    color: azure;
+}
+
+td {
+    color: aliceblue;
+}
+
+label {
+    color: white;
+}
